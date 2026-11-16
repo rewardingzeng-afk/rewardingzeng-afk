@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Monash 读 Digital Media & Communication，最后一年了。
+在 Monash 读 Digital Media & Communication。
 
 平时在干的事：
 
@@ -15,7 +15,7 @@ Monash 读 Digital Media & Communication，最后一年了。
 
 ---
 
-Final-year Digital Media & Communication student at Monash.
+Digital Media & Communication student at Monash.
 I write how-to posts about stuff I messed up so you don't have to, run social accounts on Chinese platforms, and lately spend way too much time teaching Claude to do my boring work for me.
 
 Cantonese / Mandarin / English — often in the same sentence.
